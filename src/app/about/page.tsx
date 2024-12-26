@@ -4,12 +4,11 @@ import { Container, Box, Typography, Divider } from '@mui/material'
 import React from 'react'
 
 const text = [
-    `Your health is our top priority. We meticulously curate our product range to ensure that you have access to the highest-quality natural supplements available. From ancient remedies like ashwagandha and tongkat ali to the modern marvels of cordyceps and lion's mane mushrooms, we've assembled a premium collection that's designed to support your journey toward optimal health.`,
-    `At Truenaturalblend, excellence is not just a goal; it's our way of life. We are committed to providing you with products that are not only effective but also safe. Our team of experts works tirelessly to source the purest and most potent ingredients from nature's bounty.`,
-    `We believe that when you choose Truenaturalblend, you're choosing a partner on your path to a healthier and more vibrant life.`,
-    `Our commitment extends beyond your well-being. We're equally dedicated to the well-being of our planet. That's why we use eco-friendly packaging and support sustainable farming practices. We believe that by preserving the environment, we can help ensure a healthier future for generations to come.`,
-  
-]
+    `Located in Bauchrieh, Lebanon, Al Halabi Rent a Car is your trusted partner for premium car rental services. Whether you're seeking affordable economy cars or luxury vehicles, we offer a wide range of options to meet your needs. Explore our fleet and enjoy hassle-free car rentals tailored for your convenience.`,
+    `At Al Halabi in Bauchrieh, excellence drives everything we do. From top-tier customer service to a meticulously maintained car fleet, we prioritize your comfort and satisfaction. Rent with confidence and travel Lebanon in style.`,
+    `Discover why Al Halabi Rent a Car in Bauchrieh is the preferred choice for car rentals in Lebanon. With competitive rates, reliable vehicles, and unmatched service, we ensure a seamless rental experience for every journey.`,
+    `Our commitment to sustainability and customer satisfaction sets us apart. Located in Bauchrieh, Al Halabi Rent a Car is proud to provide eco-friendly and efficient vehicle options. Book today and explore Lebanon with ease.`
+];
 const Index = () => {
   return (
     <Container maxWidth='lg' className='auto' sx={{mx:1,py:4}}>

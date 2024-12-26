@@ -9,10 +9,10 @@ import ContextWrapper from '@/context/Contexts'
 import ContactSection from '@/Components/ContactSection/ContactSection'
 
 export const metadata = {
-    title: 'Al halabi  - Shop Natural Meds in Lebanon',
-    description: `Discover our premium selection of natural supplements including ashwagandha, tongkat ali, cordyceps mushroom, lion manes mushroom, and more.`,
+    title: 'Al halabi  - Car Rental Agency in Lebanon ',
+    description: 'Explore Al Halabi Rent a Car in Lebanon. Affordable economy cars, luxury options, and a seamless rental experience await. Book your ride today',
     icons: {
-        icon: `https://ucarecdn.com/42db8a52-041f-4b79-8bfb-5c10a3a3c4fd/Al halabi green011.jpg`
+        icon: `https://ucarecdn.com/1520c0d1-bd9e-4be7-9f74-255a3e5bc352/Blacklogo.png`
     }
 }
 

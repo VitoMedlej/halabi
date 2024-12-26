@@ -5,10 +5,10 @@ import React from 'react'
 
 
 const text = [
-    `We understand that our customers are concerned with privacy, so we have initiated policies to ensure that your personal information is handled safely and responsibly. We collect customer information in an effort to improve your shopping experience and to communicate to you about our products, services, contests, or promotions.`,
-    `From time to time, we will send informational e-mails to you concerning True Nature Blend information only. These could be specials, contest information or short messages containing information that we think you would want to know. We also share some basic shipping details with our delivery agent for the sole purpose of delivering your order to your door.`,
-    `If at any time you wish to stop receiving these e-mails, we give you the option to remove your name from our mailing list with one easy step. We will NOT sell, rent, or share your e-mail address or personal details with a third party. We understand that this information is private and will handle it in a responsible manner.`,
-]
+    `We understand that our customers value privacy, which is why we have implemented strict policies to ensure that your personal information is handled securely and responsibly. We collect customer data to enhance your rental experience and to keep you informed about our services, promotions, and exclusive offers.`,
+    `Occasionally, we may send emails with updates about our car rental services, including special deals, discounts, and important information we believe will benefit you. We may also share basic details with our trusted delivery or service agents solely for the purpose of providing seamless rental services.`,
+    `If you prefer not to receive these communications, you can easily opt out at any time. We will never sell, rent, or share your personal information with third parties. Your privacy is our priority, and we are committed to handling your data responsibly.`
+];
 const Index = () => {
   return (
     <Container sx={{mx:1,mt:24}} maxWidth='lg' >
